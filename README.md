@@ -1,9 +1,8 @@
-### 墨鱼自用Web网站
+### 优秀Web网站 由[**@ddgksf2013**](https://github.com/ddgksf2013)收集
 * 更新时间：2023-07-06
 * 备份一些WebUrl
 * 备注带★为QX网页优化对象
   
-### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 
 | 名称 | 影视网站 | 备注 |
 | :----- | :----- | :----- |
@@ -56,5 +55,4 @@
 
 ```diff
 + 通知频道： https://t.me/ddgksf2021
-- 投稿助手： https://t.me/ddgksf2013_bot
 ```
