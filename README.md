@@ -27,6 +27,7 @@
 | Wallhaven |  https://wallhaven.cc/ |  自用壁纸下载 |
 | 阿里小站   | https://newxiaozhan.com/t/video | 精心整理的阿里云盘资源 |
 | 音范丝 | https://www.yinfans.me/ | 原盘下载 |
+| 当游网 | https://www.3h3.com/ | 游戏下载 |
 | | | |
 | **名称** | **工具相关** | **备注** |
 | Pixiv |  https://m.pixivic.com/dailyRank | 每日排行 |
@@ -34,6 +35,7 @@
 | 果核剥壳|  https://www.ghxi.com/ | Win软件下载 |
 | 白描网页 |  https://web.baimiaoapp.com/ | 工具 |
 | 图片放大 |  http://waifu2x.udp.jp/ |  waifu |
+| 订阅转换 |  https://suburl.v1.mk/ | 挺全面的 |
 | | | |
 | **名称** | **尽享阅读** | **备注** |
 | 拷贝漫画 |  https://copymanga.site/ |  在线漫画，YYDS |
@@ -52,6 +54,8 @@
 | Missav | https://missav.com/ | 中等偏上 |
 | Netflav | https://netflav.com/ | AV界奈飞 |
 | Hpjav | https://hpjav.tv/ | 还行，凑合 |
+| 禁书之家 | https://www.jinshuzhijia.com/ | 小说 |
+| 桜都字幕组 | https://i.iacg.site/ | 动漫 |
 
 ```diff
 + 通知频道： https://t.me/ddgksf2021
